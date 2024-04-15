@@ -1,0 +1,7 @@
+04/15/2024 10:12:29 => [Debug] Debug started for file: Main
+04/15/2024 10:12:29 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB execution started
+04/15/2024 10:12:30 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB.Main.Begin;
+04/15/2024 10:15:14 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB.Main.Print;
+Hello Mr Paul Atreides, we would like to invite you to our opening event next week on 2024-04-15. Please confirm by the end of current week.
+04/15/2024 10:15:14 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB.Main.End;
+04/15/2024 10:15:14 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB execution ended in: 00:02:44
