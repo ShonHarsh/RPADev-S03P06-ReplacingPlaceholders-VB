@@ -1,8 +1,8 @@
 ![](https://shonharsh.github.io/curriculum-vitae/images/banner-uipath.png)
 
-# S00P00 TITLE
+# S03P06 Replacing Placeholders
 
-This project is my solution in **VB** to the **TITLE** practice found in section 00 practice 00 of the UiPath - RPA Developer Foundation course.
+This project is my solution in **VB** to the **Replacing Placeholders** practice found in section 03 practice 06 of the UiPath - RPA Developer Foundation course.
 
 ### Getting Started
 
@@ -10,26 +10,36 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 ### Practice Requirements
 
-###### **Title**
+###### **Get input information and use it to fill in the placeholders in a string**
 
-Description
+You have the following template: "Hello Mr \<first_name> \<last_name>, we would like to invite you to our opening event next week on \<day_of_week>. Please confirm by the end of current week."
+
+Create a workflow to get input from the user and replace the provided input data in the phrase above.
+
+**Note:** Please create a string variable with the text above.
 
 ### Details
 
 **Course:** UiPath - RPA Developer Foundation
 
-**Section:** 00 TITLE
+**Section:** 03 Data Manipulation
 
-**Practice:** 00 TITLE
+**Practice:** 06 Replacing Placeholders
 
 **Project Format:** Windows, VB
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S00P00-TITLE
+**GitHub:** https://github.com/ShonHarsh/RPADev-S03P06-ReplacingPlaceholders-VB
 
 ### Sample Output
 
 ```
-
+04/15/2024 10:12:29 => [Debug] Debug started for file: Main
+04/15/2024 10:12:29 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB execution started
+04/15/2024 10:12:30 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB.Main.Begin;
+04/15/2024 10:15:14 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB.Main.Print;
+Hello Mr Paul Atreides, we would like to invite you to our opening event next week on 2024-04-15. Please confirm by the end of current week.
+04/15/2024 10:15:14 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB.Main.End;
+04/15/2024 10:15:14 => [Info] RPADev-S03P06-ReplacingPlaceholders-VB execution ended in: 00:02:44
 ```
 
 ### Architecture Requirements
@@ -42,7 +52,7 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S00P00-TITLE`
+`git clone https://github.com/ShonHarsh/RPADev-S03P06-ReplacingPlaceholders-VB`
 
 ### Links
 - [UiPath Automation Platform](https://www.uipath.com/)
